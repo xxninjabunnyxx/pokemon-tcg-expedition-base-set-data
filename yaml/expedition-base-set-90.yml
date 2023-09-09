@@ -1,0 +1,84 @@
+---
+id: ecard1-90
+name: Pupitar
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '70'
+types:
+- Fighting
+evolvesFrom: Larvitar
+evolvesTo:
+- Tyranitar
+attacks:
+- name: Headbutt
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ecard1
+  name: Expedition Base Set
+  series: E-Card
+  printedTotal: 165
+  total: 165
+  legalities:
+    unlimited: Legal
+  ptcgoCode: EX
+  releaseDate: 2002/09/15
+  updatedAt: 2022/10/10 15:12:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard1/symbol.png
+    logo: https://images.pokemontcg.io/ecard1/logo.png
+number: '90'
+artist: Yukiko Baba
+rarity: Uncommon
+nationalPokedexNumbers:
+- 247
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard1/90.png
+  large: https://images.pokemontcg.io/ecard1/90_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard1-90
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 1.0
+      mid: 1.4
+      high: 2.99
+      market: 1.27
+      directLow: 
+    reverseHolofoil:
+      low: 7.55
+      mid: 10.14
+      high: 11.4
+      market: 11.22
+      directLow: 9.06
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard1-90
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 1.11
+    lowPrice: 0.1
+    trendPrice: 0.81
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 3.09
+    lowPriceExPlus: 0.39
+    avg1: 2.45
+    avg7: 1.09
+    avg30: 1.0
+    reverseHoloAvg1: 1.9
+    reverseHoloAvg7: 3.66
+    reverseHoloAvg30: 3.06
